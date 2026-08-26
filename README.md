@@ -2,8 +2,7 @@
 
 A responsive guitar-themed website built using HTML and CSS.
 
-## 🚀 Live Demo
-https://ektajain-tech.github.io/first-commit---guitar-website/
+
 
 ## 💻 GitHub Repository
 https://github.com/ektajain-tech/first-commit---guitar-website
